@@ -1,0 +1,4 @@
+interface:
+  display_name: "Hardware Product Lifecycle"
+  short_description: "软硬件一体产品全周期研发引导、阶段巡检与文件版本治理"
+  default_prompt: "使用 $hardware-product-lifecycle 读取当前项目，判断所处阶段、关键缺口和本次需要确认的决策。"
